@@ -50,3 +50,6 @@
 | 08    | Brain Tumor Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 09    | Pneumonia Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 10    | Realtime Face Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+
+# change in the code
+| 11 | change code | understanding | https://github.com/SanskarNavale/AI-Project-Gallery
